@@ -1,2 +1,2 @@
 # paint-js
-> init
+> test
